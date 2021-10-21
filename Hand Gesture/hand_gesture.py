@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 import math
-
+#code
 capture = cv2.VideoCapture(0)
 
 while capture.isOpened():
